@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">I'm looking for a long-term front-end developer job</h3>
 
-- 🔭 Check out my [Blog App](https://magnificent-pika-e1ba95.netlify.app/1d.netlify.app/)
+- 🔭 Check out my [Blog App](https://magnificent-pika-e1ba95.netlify.app)
 
 - 🌱 I’m currently learning **React, Typescript**
 
